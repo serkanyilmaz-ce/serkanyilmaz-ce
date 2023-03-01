@@ -14,5 +14,5 @@
 
 ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=0e75b6&style=flat" alt="serkanyilmaz-ce" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> </p>
 
