@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">A passionate game developer from Turkey </h3>
+<h1 align="left">Hi 👋, I'm Serkan</h1>
+
+---
+
+*  🌱 Always learning
+*  💻 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
+*  💻 Studying at [Istanbul Technical University](https://www.itu.edu.tr/en)
+*  👩‍🚀 Cadet at [42 Istanbul](https://42istanbul.com.tr/)
+*  💬 Ask me about anything, I'm happy to help
+*  🪁 Hobbies: music(playing trumpet, guitar, oud), chess, books
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
