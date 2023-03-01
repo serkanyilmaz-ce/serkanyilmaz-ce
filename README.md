@@ -1,12 +1,11 @@
-<h1 align="left">Hi 👋, I'm Serkan</h1>
+<h1 align="left">Hi 👋, I'm Serkan from 🇹🇷</h1>
 
 ---
 
 *  🌱 Always learning
-*  💻 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
-*  💻 Studying at [Istanbul Technical University](https://www.itu.edu.tr/en)
+*  🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
+*  🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en)
 *  👩‍🚀 Cadet at [42 Istanbul](https://42istanbul.com.tr/)
-*  💬 Ask me about anything, I'm happy to help
 *  🪁 Hobbies: music(playing trumpet, guitar, oud), chess, books
 
 ---
