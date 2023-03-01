@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=0e75b6&style=flat" alt="serkanyilmaz-ce" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pawn_of_spades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_pawn_of_spades" height="30" width="40" /></a>
@@ -15,6 +13,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanyilmaz-ce&show_icons=true&locale=en&layout=compact" alt="serkanyilmaz-ce" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=0e75b6&style=flat" alt="serkanyilmaz-ce" /> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&locale=en" alt="serkanyilmaz-ce" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanyilmaz-ce&" alt="serkanyilmaz-ce" /></p>
+
+
