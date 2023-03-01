@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Serkan from 🇹🇷</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> </p>
+<h1 align="left">Hi 👋, I'm Serkan from 🇹🇷 <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> </h1> 
 
 ---
 
