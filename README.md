@@ -51,7 +51,7 @@
  </br>
  </br>
  
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats:</h2>
+<h2><img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats:</h2>
 
 | ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&theme=darcula&card_width=500) |
 | ------------- | ------------- |
