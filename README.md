@@ -59,6 +59,7 @@
  </br>
  </br>
 
+<h2 align="center"><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Contact with Me</h2>
 <p>
 <!--<h3 align="center" > <img src="Images/icons8-customer-support.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>-->
 <div align="center" class="icons-social" style="margin-left: 10px;">
