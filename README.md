@@ -2,6 +2,7 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
 <img align="right" style="width:300px; height:auto" src="Images/geek.gif"/>
 </br>
+
   - 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) 
   - 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
   - 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en)
