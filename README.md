@@ -7,7 +7,7 @@
   - 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
   - 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en)
   - 👩‍🚀 Cadet at [42 Istanbul](https://42istanbul.com.tr/)
-  - 🪁 Hobbies: music(playing trumpet, guitar, oud), chess, books
+  - 🪁 Hobbies: Music (Playing trumpet, guitar, oud), chess, books
 
 --------------------------------------------------------------------------------
 
