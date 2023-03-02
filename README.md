@@ -26,7 +26,7 @@
  </br>
  
 <h2 align="left">Languages & Tools:</h2>
-<p align="left"> 
+<p align="justify"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a style="margin-left: 10px;" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
