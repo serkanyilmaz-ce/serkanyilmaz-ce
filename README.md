@@ -3,7 +3,7 @@
 <img align="right" style="width:450px; height:auto" src="Images/geek.gif"/>
 </br>
 </br>
-
+<h2 align="left">About me</h2>
 - 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf)
 
  </br>
