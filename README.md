@@ -7,7 +7,10 @@
   - 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
   - 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en)
   - 👩‍🚀 Cadet at [42 Istanbul](https://42istanbul.com.tr/)
-  - 🪁 Hobbies: Music (Playing trumpet, guitar, oud), chess, books
+  - 🪁 Hobbies: 
+    - Music (Playing trumpet, guitar, oud)
+    - [Chess] (https://lichess.org/@/pawnofspades)
+    - [Books] (https://1000kitap.com/srknylmz)
 
 <h2 align="left">Languages & Tools:</h2>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/bash.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
