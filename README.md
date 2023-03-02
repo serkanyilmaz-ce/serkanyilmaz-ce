@@ -23,7 +23,7 @@
 ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&layout=compact&theme=darcula)](https://github.com/serkanyilmaz-ce)
 
 --------------------------------------------------------------------------------
-
+<p>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
@@ -37,13 +37,13 @@
   <img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="Serkan Yılmaz">
 </a>
 <a style="margin-left: 10px;" href="https://www.instagram.com/serkanyilmaz.gc/" target="blank">
-  <img align="center" src="https://img.icons8.com/doodle/96/instagram-new.png" alt="srknylmz.gc">
+  <img align="center" src="https://img.icons8.com/doodle/48/instagram-new.png" alt="srknylmz.gc">
 </a>
 <a style="margin-left: 10px;" href="https://discord.gg/Serkan#4461" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/48/discord-new-logo.png" alt="Serkan#4461" height="40" width="40">
 </a>
-<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.co$$  $$m/users/16186805/cmpesy">
+<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/16186805/cmpesy">
   <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" height="30" width="40">
 </a>
 </div>
-
+</p>
