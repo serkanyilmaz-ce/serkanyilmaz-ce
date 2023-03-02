@@ -17,13 +17,8 @@
 
 --------------------------------------------------------------------------------
 
-| ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&layout=compact&theme=darcula)] |
+| ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&layout=compact&theme=darcula) |
 | ------------- | ------------- |
-
-
-
-
-
 
 --------------------------------------------------------------------------------
 <p>
