@@ -19,7 +19,7 @@
 
 ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&layout=compact&theme=darcula&langs_count=8)](https://github.com/serkanyilmaz-ce)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&layout=compact&theme=darcula&langs_count=3)](https://github.com/serkanyilmaz-ce)
 
 --------------------------------------------------------------------------------
 <p>
