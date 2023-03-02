@@ -5,6 +5,8 @@
 </br>
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
 
+ </br>
+ 
 - 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf)
 
  </br>
