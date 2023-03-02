@@ -2,8 +2,8 @@
   <img align="center" src="https://media2.giphy.com/media/1ioTgyF4TrswFpJDB8/giphy.gif?cid=ecf05e47cynf25lio024pn7dt7oyc2oqutqhscu7sh5p37ih&rid=giphy.gif&ct=g">
 </a></p>-->
 
-<h1 align="left">Hi, I'm Serkan from 🇹🇷 <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> </h1> 
-
+<h1 align="left">Hi 👋 <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> </h1> 
+  - 📝 I'm Serkan from 🇹🇷. My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf)
   - 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
   - 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en)
   - 👩‍🚀 Cadet at [42 Istanbul](https://42istanbul.com.tr/)
