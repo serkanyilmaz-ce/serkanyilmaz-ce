@@ -4,6 +4,7 @@
 </br>
 </br>
 <h2 align="left">About me</h2>
+
 - 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf)
 
  </br>
@@ -25,7 +26,8 @@
  </br>
  </br>
  
-<h2 align="left">Languages & Tools:</h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages & Tools:</b>
+
 <p align="justify"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
