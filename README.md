@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi 👋 <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> </h1> 
 
-<img align="right" style="width:300px; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img align="right" style="width:250px; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
   - 📝 I'm Serkan from 🇹🇷. My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) 
   - 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
