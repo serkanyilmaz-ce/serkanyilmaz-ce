@@ -22,7 +22,7 @@
 
 --------------------------------------------------------------------------------
 <p>
-<h3 align="center" > <img src="Images/icons8-phonelink-ring.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="Images/icons8-customer-support.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
 <a style="margin-left: 10px;" target="_blank" href="https://github.com/serkanyilmaz-ce">
