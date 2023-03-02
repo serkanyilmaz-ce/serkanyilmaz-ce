@@ -16,7 +16,8 @@
 
  </br>
 
-- 👩‍🚀 Cadet at [42 Istanbul](https://42istanbul.com.tr/)
+- <img align="left" src="![42](https://user-images.githubusercontent.com/74135344/222324603-5ee4fd5f-3b9f-4a7f-8d40-746b317e4d06.svg)
+" alt="serkanyilmaz-ce" />  Cadet at [42 Istanbul](https://42istanbul.com.tr/)
 
  </br>
 
