@@ -29,7 +29,7 @@
  
 <h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages & Tools</h2>
 
-<p align="justify"> 
+<p> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a style="margin-left: 10px;" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -51,7 +51,7 @@
  </br>
  </br>
  
-<h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Github Stats:</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats:</h2>
 
 | ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&theme=darcula&card_width=500) |
 | ------------- | ------------- |
