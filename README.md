@@ -2,7 +2,6 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
 <img align="right" style="width:450px; height:auto" src="Images/geek.gif"/>
 </br>
-</br>
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
 
  </br>
