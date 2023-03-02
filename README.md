@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 </h1> 
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
-<img align="right" style="width:300px; height:auto" src="Images/geek.gif"/>
+<img align="right" style="width:350px; height:auto" src="Images/geek.gif"/>
 </br>
 </br>
 
