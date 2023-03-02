@@ -38,7 +38,7 @@
 <a style="margin-left: 10px;" href="https://www.instagram.com/serkanyilmaz.gc/" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/48/instagram-new.png" alt="srknylmz.gc">
 </a>
-<a style="margin-left: 10px;" href="https://discord.gg/Serkan#4461" target="blank">
+<a style="margin-left: 10px;" href="https://discordapp.com/users/773562948802576404" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/48/discord-new-logo.png" alt="Serkan#4461" height="40" width="40">
 </a>
 <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/16186805/cmpesy">
