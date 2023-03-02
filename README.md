@@ -3,11 +3,13 @@
 <img align="right" style="width:300px; height:auto" src="Images/geek.gif"/>
 </br>
 </br>
+
 - 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) 
 - 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/)
 - 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en)
 - 👩‍🚀 Cadet at [42 Istanbul](https://42istanbul.com.tr/)
 - 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) 
+ 
  </br>
  </br>
  </br>
