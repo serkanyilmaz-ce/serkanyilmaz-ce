@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 </h1> 
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
-<img align="right" style="width:350px; height:auto" src="Images/geek.gif"/>
+<img align="right" style="width:450px; height:auto" src="Images/geek.gif"/>
 </br>
 </br>
 
@@ -22,7 +22,6 @@
 
 - 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) 
  
- </br>
  </br>
  </br>
  
