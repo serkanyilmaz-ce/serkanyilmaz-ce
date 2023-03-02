@@ -16,7 +16,7 @@
 
  </br>
 
-- <img align="left" style="width:40px; height:auto" src="Images/42.svg"/> Cadet at [42 Istanbul](https://42istanbul.com.tr/)
+- <img align="left" style="width:20px; height:auto" src="Images/42.svg"/> Cadet at [42 Istanbul](https://42istanbul.com.tr/)
 
  </br>
 
