@@ -80,10 +80,8 @@
  </br>
  </br>
  
-<!--<p>
+<div align="center">
  
 https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-af2b-bee0fb2be586.mov
  
-</p>-->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ucXc4KWqc1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
