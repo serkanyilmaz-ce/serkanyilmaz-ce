@@ -40,7 +40,7 @@
 <a style="margin-left: 10px;" href="https://discordapp.com/users/773562948802576404" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/48/discord-new-logo.png" alt="Serkan#4461" height="40" width="40">
 </a>
-<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/16186805/cmpesy"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-stack-overflow-web-portal-for-professional-and-enthusiast-programmers-logo-shadow-tal-revivo.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/16186805/cmpesy"><img align="center" src="https://img.icons8.com/color/48/stackoverflow.png"></a>
 <a style="margin-left: 10px;" target="_blank" href="mailto:serkanyilmaz@greencodia.com"><img align="center" src="https://img.icons8.com/doodle/48/new-post.png"></a>
 </div>
 </p>
