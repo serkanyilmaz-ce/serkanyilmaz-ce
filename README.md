@@ -84,9 +84,17 @@
 </div>
 </p>
 
- </br>
- </br>
+</br>
+</br>
  
+ 
+<div>
+ [![seryilma's 42 stats](https://badge.mediaplus.ma/colorfulwaves/seryilma?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
+
+</br>
+</br>
+
 <div align="center">
  
 https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-af2b-bee0fb2be586.mov
