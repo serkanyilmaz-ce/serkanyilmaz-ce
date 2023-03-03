@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 </h1> 
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
+
 <img align="right" style="width:450px; height:auto" src="Images/geek.gif"/>
 </br>
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
@@ -52,10 +53,22 @@
  </br>
  
 <h2><img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats:</h2>
-
+<p>
+ 
 | ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&theme=darcula&card_width=500) |
 | ------------- | ------------- |
+ 
+</p>
+</br>
+</br>
+ 
+ <h2><img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 42 Stats:</h2>
+ 
+<div>
+ 
+ [![seryilma's 42 stats](https://badge.mediaplus.ma/colorfulwaves/seryilma?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+</div>
  </br>
  </br>
 
@@ -83,16 +96,6 @@
 <a style="margin-left: 10px;" target="_blank" href="mailto:serkanyilmaz@greencodia.com"><img align="center" src="https://img.icons8.com/doodle/48/new-post.png"></a>
 </div>
 </p>
-
-</br>
-</br>
- 
- 
-<div>
- 
- [![seryilma's 42 stats](https://badge.mediaplus.ma/colorfulwaves/seryilma?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-</div>
 
 </br>
 </br>
