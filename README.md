@@ -14,7 +14,7 @@
 
  </br>
  
-| - 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) | <img align="right" style="width:100px; height:auto" src="Images/geek.gif"/> |
+| - 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) | <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> |
 
  
 | - 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/) | ------------- |
