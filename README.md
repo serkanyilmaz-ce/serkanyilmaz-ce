@@ -18,7 +18,7 @@
 
  </br>
  
- <img align="center" src="https://media.giphy.com/media/QuVplMko9NmomDV2uH/giphy.gif"  width ="25px">  Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a>
+ <img align="center" src="https://media.giphy.com/media/QuVplMko9NmomDV2uH/giphy.gif"  width ="25px">  Hobbies: Music (Player of Guitar, <a href = "https://www.youtube.com/watch?v=fzAiskv_2Us">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a>
 
  </br>
  </br>
