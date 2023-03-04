@@ -1,15 +1,4 @@
-<h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 </h1> 
-
-<img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
-
-<div align="right" style="width:auto;height:50px">
-
-https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-af2b-bee0fb2be586.mov
-
- </div>
- 
-</br>
-</br>
+<h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a></h1> 
 
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
 
@@ -103,3 +92,9 @@ https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-
 <a style="margin-left: 10px;" target="_blank" href="mailto:serkanyilmaz@greencodia.com"><img align="center" src="https://img.icons8.com/doodle/48/new-post.png"></a>
 </div>
 </p>
+
+<div align="center" style="width:auto;height:50px">
+
+https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-af2b-bee0fb2be586.mov
+
+ </div>
