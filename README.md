@@ -9,20 +9,20 @@
 
 <table border="none">
  <tr>
-   <td /> 📝 My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf"> here </a> </td>
-   <td rowspan = "5"> <img align="center" style="width:250px; height:auto" src="Images/geek.gif"/> </td>
+   <td /> 📝 My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf">here</a></td>
+   <td rowspan = "5"> <img align="center" style="width:250px; height:auto" src="Images/geek.gif"/></td>
  </tr>
  <tr>
  <td> 🎮 Game Developer and Co-founder at <a href = "https://greencodia.com/">Greencodia</a></td>
  </tr>
  <tr>
-   <td> 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en) </td>
+ <td> 🎓 Senior at <a href = "https://www.itu.edu.tr/en">Istanbul Technical University</a></td>
  </tr>
  <tr>
-   <td> ⌨️ Cadet at [42 Istanbul](https://42istanbul.com.tr/) </td>
+ <td> ⌨️ Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> </td>
  </tr>
  <tr>
-   <td> 🪁 Hobbies: Music (Player of guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) </td>
+   <td> 🪁 Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">oud</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a></td>
  </tr>
 </table>
 
