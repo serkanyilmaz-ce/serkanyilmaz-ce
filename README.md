@@ -10,6 +10,7 @@
 </br>
 </br>
 
+<table>
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
 
  </br>
@@ -22,7 +23,7 @@
 
 | - ⌨️ Cadet at [42 Istanbul](https://42istanbul.com.tr/)
 
-| - 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) | | | <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> | 
+| - 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) | |  <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> | 
   | ------------- | ------------- |
  </br>
  </br>
@@ -61,7 +62,7 @@
 </br>
 </br>
  
- <h2><img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 42 Stats:</h2>
+ <h2><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhYTE3NDU5OWVhOGEzMjE2ZjM4NTNmYTI1NjlhN2UwZmRjZjNjNCZjdD10cw/UUBYepX4WSiNFf8GOT/giphy.gif" width="35"> 42 Stats:</h2>
  
 <div>
  
