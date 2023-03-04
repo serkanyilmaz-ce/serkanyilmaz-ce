@@ -7,7 +7,7 @@
 
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
 
-<table>
+<table border="none">
  <tr>
    <td /> 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) </td>
  </tr>
