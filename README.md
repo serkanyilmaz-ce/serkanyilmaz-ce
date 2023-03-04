@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a></h1> 
 
-<h2><img align="center" src="https://media.giphy.com/media/jDuRXO04tzpRKz9c2w/giphy.gif" width ="25"> About me</h2>
+<h2><img align="center" src="https://media.giphy.com/media/jDuRXO04tzpRKz9c2w/giphy.gif" width ="40"> About me</h2>
 
  <img align="center" src="https://media.giphy.com/media/l4AFk2T11lpflZFGkX/giphy.gif"  width ="25px">  My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf">here</a>
  <!-- <img align="top" style="width:400px; height:auto" src="Images/geek.gif"/> -->
@@ -18,12 +18,12 @@
 
  </br>
  
- <img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="25px">  Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a>
+ <img align="center" src="https://media.giphy.com/media/QuVplMko9NmomDV2uH/giphy.gif"  width ="25px">  Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a>
 
  </br>
  </br>
  
-<h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages & Tools</h2>
+<h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> Languages & Tools</h2>
 
 <p> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -47,7 +47,7 @@
  </br>
  </br>
  
-<h2><img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats:</h2>
+<h2><img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> Github Stats:</h2>
 <p>
  
 | ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&theme=darcula&card_width=500) |
@@ -57,7 +57,7 @@
 </br>
 </br>
  
- <h2><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhYTE3NDU5OWVhOGEzMjE2ZjM4NTNmYTI1NjlhN2UwZmRjZjNjNCZjdD10cw/UUBYepX4WSiNFf8GOT/giphy.gif" width="35"> 42 Stats:</h2>
+ <h2><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhYTE3NDU5OWVhOGEzMjE2ZjM4NTNmYTI1NjlhN2UwZmRjZjNjNCZjdD10cw/UUBYepX4WSiNFf8GOT/giphy.gif" width="45"> 42 Stats:</h2>
  
 <div>
  
@@ -67,7 +67,7 @@
  </br>
  </br>
 
-<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/74135344/222338799-da4c126b-6125-44e2-ad42-3d81f09b21e0.png" width ="25"> Contact with Me</h2>
+<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/74135344/222338799-da4c126b-6125-44e2-ad42-3d81f09b21e0.png" width ="40"> Contact with Me</h2>
 
 <p>
 <!--<h3 align="center" > <img src="Images/icons8-customer-support.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>-->
