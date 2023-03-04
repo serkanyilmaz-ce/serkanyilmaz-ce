@@ -6,7 +6,7 @@
  <!-- <img align="top" style="width:400px; height:auto" src="Images/geek.gif"/> -->
  </br>
  
-  <img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="25px">  Game Developer and Co-founder at <a href = "https://greencodia.com/">Greencodia</a>
+  <img align="center" src="https://media.giphy.com/media/TLPTbOAwRD9zoi1QOI/giphy.gif"  width ="25px">  Game Developer and Co-founder at <a href = "https://greencodia.com/">Greencodia</a>
  
   </br>
 
