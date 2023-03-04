@@ -17,7 +17,7 @@
 <img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="20px"> ⌨️ Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> 
 
  </br>
- <a ><img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="20px"> 🪁 Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a></a>
+ <a ><img align="left" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="20px"> 🪁 Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a></a>
 
  </br>
  </br>
