@@ -4,6 +4,7 @@
 
 <table align="center" style="border:none">
  <tr>
+   <td><img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"></td>
    <td /> 📝 My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf">here</a></td>
    <td rowspan = "5"> <img align="top" style="width:400px; height:auto" src="Images/geek.gif"/></td>
  </tr>
