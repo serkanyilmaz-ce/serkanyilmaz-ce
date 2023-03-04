@@ -2,7 +2,7 @@
 
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
 
-<table align="center" border="none">
+<table align="center" border="none!important">
  <tr>
    <td><img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px"></td>
    <td /> 📝 My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf">here</a></td>
