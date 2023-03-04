@@ -10,7 +10,7 @@
  
   </br>
 
- <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVmNTdmMWNhNzVkZjY4YWRlNmM0OWY2YzcwMTExYjgzN2YxYjhkYiZjdD1z/SAIj5Puuua8yJS2BRW/giphy.gif"  width ="25px">  Senior at <a href = "https://www.itu.edu.tr/en">Istanbul Technical University</a>
+ <img align="center" src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif"  width ="25px">  Senior at <a href = "https://www.itu.edu.tr/en">Istanbul Technical University</a>
 
  </br>
 
