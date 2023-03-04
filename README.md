@@ -14,7 +14,7 @@
 
  </br>
 
-<img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="25px">  Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> 
+<img align="center" src="https://media.giphy.com/media/tsSpBdwJWsgvruT4Ha/giphy.gif"  width ="25px">  Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> 
 
  </br>
  
