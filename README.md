@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a></h1> 
 
-<h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
+<h2><img align="center" src="https://media.giphy.com/media/U63A8PnqPcq7cSKvJ7/giphy.gif" width ="25"> About me</h2>
 
  <img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="25px">  My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf">here</a>
  <!-- <img align="top" style="width:400px; height:auto" src="Images/geek.gif"/> -->
