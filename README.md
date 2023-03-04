@@ -3,7 +3,7 @@
 <div>
  
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
-<img align="right" style="width:auto; height:auto" src="Images/geek.gif"/>
+<img align="right" style="width:100; height:auto" src="Images/geek.gif"/>
 
 </div>
 
