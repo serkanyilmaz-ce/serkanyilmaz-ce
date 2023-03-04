@@ -2,29 +2,28 @@
 
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
 
-<table align="center" border="none!important">
- <tr>
-   <td><img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px"></td>
-   <td /> 📝 My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf">here</a></td>
-   <td rowspan = "5"> <img align="top" style="width:400px; height:auto" src="Images/geek.gif"/></td>
- </tr>
- <tr>
-  <td><img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px"></td>
- <td> 🎮 Game Developer and Co-founder at <a href = "https://greencodia.com/">Greencodia</a></td>
- </tr>
- <tr>
-  <td><img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px"></td>
- <td> 🎓 Senior at <a href = "https://www.itu.edu.tr/en">Istanbul Technical University</a></td>
- </tr>
- <tr>
-  <td><img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px"></td>
- <td> ⌨️ Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> </td>
- </tr>
- <tr>
-  <td><img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px"></td>
-   <td> 🪁 Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a></td>
- </tr>
-</table>
+ <img align="left" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px"> 📝 My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf">here</a>
+ <!-- <img align="top" style="width:400px; height:auto" src="Images/geek.gif"/> -->
+ 
+  <!--</br>
+ 
+ 🎮 Game Developer and Co-founder at <a href = "https://greencodia.com/">Greencodia</a>
+ 
+  </br>
+
+ <img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px">
+🎓 Senior at <a href = "https://www.itu.edu.tr/en">Istanbul Technical University</a>
+
+ </br>
+
+<img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px">
+ ⌨️ Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> 
+
+ </br>
+ <img align="center" src="https://media.giphy.com/media/ifXL0OYTr5KkMml3Kg/giphy.gif"  width ="15px">
+    🪁 Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a></td>
+
+
 
  </br>
  </br>
