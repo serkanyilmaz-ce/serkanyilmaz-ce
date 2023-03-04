@@ -23,8 +23,8 @@
    <td /> ⌨️ Cadet at [42 Istanbul](https://42istanbul.com.tr/) </td>
  </tr>
  <tr>
-   <td /> 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) | |  <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> </td>
-   <td/ rowspan = "5"> <img align="right" style="width: 450px; max-width: 100%; display: inline-block;" src="/serkanyilmaz-ce/serkanyilmaz-ce/raw/main/Images/geek.gif" data-target="animated-image.originalImage"></td>
+   <td /> 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) </td>
+   <td/ rowspan = "5"> <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> </td>
  </tr>
   </table>
 
