@@ -13,16 +13,16 @@
    <td rowspan = "5"> <img align="center" style="width:250px; height:auto" src="Images/geek.gif"/> </td>
  </tr>
  <tr>
-   <td /> 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/) </td>
+   <td> 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/) </td>
  </tr>
  <tr>
-   <td /> 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en) </td>
+   <td> 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en) </td>
  </tr>
  <tr>
-   <td /> ⌨️ Cadet at [42 Istanbul](https://42istanbul.com.tr/) </td>
+   <td> ⌨️ Cadet at [42 Istanbul](https://42istanbul.com.tr/) </td>
  </tr>
  <tr>
-   <td /> 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) </td>
+   <td> 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) </td>
  </tr>
 </table>
 
