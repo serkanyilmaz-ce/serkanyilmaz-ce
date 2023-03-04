@@ -10,7 +10,7 @@
 <table border="none">
  <tr>
    <td /> 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) </td>
-   <td rowspan = "5"> <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> </td>
+   <td rowspan = "5"> <img align="center" style="width:250px; height:auto" src="Images/geek.gif"/> </td>
  </tr>
  <tr>
    <td /> 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/) </td>
