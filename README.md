@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 </h1> 
 
-<div>
- 
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
 
-</div>
+</br>
+</br>
 
-</br>
-</br>
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
+
 <table>
  <tr>
    <td /> 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) </td>
@@ -24,9 +22,9 @@
  </tr>
  <tr>
    <td /> 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) </td>
-   <td/ rowspan = "5"> <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> </td>
+   <td rowspan = "5"/> <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> </td>
  </tr>
-  </table>
+</table>
 
  </br>
  </br>
