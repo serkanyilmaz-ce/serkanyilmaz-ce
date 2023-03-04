@@ -9,7 +9,7 @@
 
 <table border="none">
  <tr>
-   <td /> 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) </td>
+   <td /> 📝 My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf"> here </a> </td>
    <td rowspan = "5"> <img align="center" style="width:250px; height:auto" src="Images/geek.gif"/> </td>
  </tr>
  <tr>
