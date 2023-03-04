@@ -4,16 +4,12 @@
  
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
 
-
 </div>
 
 </br>
 </br>
-
-<table>
- <th>
 <h2><img align="center" src="Images/icons8-male-64.png" width ="25"> About me</h2>
- </th>
+<table>
  <tr>
    <td /> 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) </td>
  </tr>
@@ -27,9 +23,10 @@
    <td /> ⌨️ Cadet at [42 Istanbul](https://42istanbul.com.tr/) </td>
  </tr>
  <tr>
- </table>
    <td /> 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) | |  <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> </td>
+   <td/ rowspan = "5"> <img align="right" style="width: 450px; max-width: 100%; display: inline-block;" src="/serkanyilmaz-ce/serkanyilmaz-ce/raw/main/Images/geek.gif" data-target="animated-image.originalImage"></td>
  </tr>
+  </table>
 
  </br>
  </br>
