@@ -22,7 +22,7 @@
  <td> ⌨️ Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> </td>
  </tr>
  <tr>
-   <td> 🪁 Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">oud</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a></td>
+   <td> 🪁 Hobbies: Music (Player of guitar, <a href = "https://en.wikipedia.org/wiki/Trumpet">Trumpet</a>, <a href = "https://en.wikipedia.org/wiki/Oud">Oud</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls">Movies</a></td>
  </tr>
 </table>
 
