@@ -10,6 +10,7 @@
 <table border="none">
  <tr>
    <td /> 📝 My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf) </td>
+   <td rowspan = "5"> <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> </td>
  </tr>
  <tr>
    <td /> 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/) </td>
@@ -22,7 +23,6 @@
  </tr>
  <tr>
    <td /> 🪁 Hobbies: Music (Playing guitar, [trumpet](https://en.wikipedia.org/wiki/Trumpet), [oud](https://en.wikipedia.org/wiki/Oud)), [Chess](https://lichess.org/@/pawnofspades),  [Books](https://1000kitap.com/srknylmz), [Movies](https://m.imdb.com/list/ls092351081/?ref_=m_urls_ls) </td>
-   <td rowspan = "5"/> <img align="center" style="width:100px; height:auto" src="Images/geek.gif"/> </td>
  </tr>
 </table>
 
