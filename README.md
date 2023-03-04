@@ -13,7 +13,7 @@
    <td rowspan = "5"> <img align="center" style="width:250px; height:auto" src="Images/geek.gif"/> </td>
  </tr>
  <tr>
-   <td> 🎮 Game Developer and Co-founder at [Greencodia](https://greencodia.com/) </td>
+ <td> 🎮 Game Developer and Co-founder at <a href = "https://greencodia.com/">Greencodia</a></td>
  </tr>
  <tr>
    <td> 🎓 Senior at [Istanbul Technical University](https://www.itu.edu.tr/en) </td>
