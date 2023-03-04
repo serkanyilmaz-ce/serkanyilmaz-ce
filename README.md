@@ -2,7 +2,7 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce" /> 
 
-<div align="right">
+<div align="right" style="heigt"="width:autoo;height:50px">
  
 https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-af2b-bee0fb2be586.mov
  
