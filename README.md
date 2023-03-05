@@ -2,7 +2,7 @@
 
 <h2><img align="center" src="https://media.giphy.com/media/jDuRXO04tzpRKz9c2w/giphy.gif" width ="40"> About me</h2>
 
- <img align="center" src="https://media.giphy.com/media/l4AFk2T11lpflZFGkX/giphy.gif"  width ="25px">  My resume is [here](https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf){:target="_blank"}
+ <img align="center" src="https://media.giphy.com/media/l4AFk2T11lpflZFGkX/giphy.gif"  width ="25px">  My resume is <a href="https://greencodia.com/resumes/Resume-Serkan-YILMAZ.pdf" target="_blank">here</a>
  <!-- <img align="top" style="width:400px; height:auto" src="Images/geek.gif"/> -->
  </br>
  
