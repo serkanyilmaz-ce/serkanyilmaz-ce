@@ -102,8 +102,8 @@ https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-
 
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
 | :---:  | :---:   | :---:  | :---:  | :---:  | :---:    | :---:    | :---:  | :---:  | :---:  | :---:   |
-| 1  | libft   | [![seryilma's 42 Libft Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2449733)](https://github.com/JaeSeoKim/badge42) | | 10A | cub3d   | 🔒 |  | 20 | NetPractice | 🔒  |
-| 2  | born2beroot   | [![seryilma's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2513967)](https://github.com/JaeSeoKim/badge42) |  | 10B | miniRT   | 🔒   |  | 21 | ft_containers | 🔒   |
+| 1  | libft   | [![seryilma's 42 Libft Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2449733)](https://github.com/JaeSeoKim/badge42) | | 10A | cub3d   | 🔒 |  | 20 | CPP Module 09 | 🔒  |
+| 2  | born2beroot   | [![seryilma's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2513967)](https://github.com/JaeSeoKim/badge42) |  | 10B | miniRT   | 🔒   |  | 21 | NetPractice | 🔒   |
 | 3  | ft_printf   | [![seryilma's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2513966)](https://github.com/JaeSeoKim/badge42) |  | 11 | CPP Module 00   | 🔒 |  | 22A | ft_irc | 🔒   |
 | 4  | get_next_line   | [![seryilma's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2513965)](https://github.com/JaeSeoKim/badge42) |  | 12 | CPP Module 01   | 🔒  |  | 22B | webserv | 🔒   |
 | 5A  | FdF   | ⏭️ |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
