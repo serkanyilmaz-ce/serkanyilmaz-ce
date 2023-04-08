@@ -61,7 +61,7 @@
  
 <div>
  
- ![serkan's 42 stats](https://badge.mediaplus.ma/colorfulwaves/seryilma?1337Badge=off&UM6P=off)
+[ ![serkan's 42 stats](https://badge.mediaplus.ma/colorfulwaves/seryilma?1337Badge=off&UM6P=off)](https://avatars.githubusercontent.com/u/74135344?v=4)
 
 </div>
  </br>
