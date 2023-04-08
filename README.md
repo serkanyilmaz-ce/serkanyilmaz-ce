@@ -111,6 +111,6 @@ https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-
 | 7  | push_swap   | [![seryilma's 42 push_swap Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2917302)](https://github.com/JaeSeoKim/badge42) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 | [![seryilma's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2915434)](https://github.com/JaeSeoKim/badge42) |
 | 8  | minishell   | [![seryilma's 42 minishell Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3038178)](https://github.com/JaeSeoKim/badge42) |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | [![seryilma's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3039992)](https://github.com/JaeSeoKim/badge42)  |
 | 9  | philosophers   | [![seryilma's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3015425)](https://github.com/JaeSeoKim/badge42) |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
-| -  | -   | - |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
+| 10  | cub3d - miniRT | - |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
 | -  | -   | - |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
 
