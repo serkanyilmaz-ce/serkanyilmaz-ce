@@ -112,5 +112,5 @@ https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | [![seryilma's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3039992)](https://github.com/JaeSeoKim/badge42)  |
 | 7  | push_swap   | [![seryilma's 42 push_swap Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2917302)](https://github.com/JaeSeoKim/badge42) |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
 | 8  | minishell   | [![seryilma's 42 minishell Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3038178)](https://github.com/JaeSeoKim/badge42) |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
-| 9  | philosophers   | [🔒](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3015425) |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
+| 9  | philosophers   | [![seryilma's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3015425)](https://github.com/JaeSeoKim/badge42) |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 | 🔒   |
 
