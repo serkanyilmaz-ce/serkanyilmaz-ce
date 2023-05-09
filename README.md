@@ -50,6 +50,8 @@
 <h2><img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> Github Stats:</h2>
 <p>
  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce)](https://github.com/serkanyilmaz-ce/github-readme-stats)
+
 | ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&theme=darcula&card_width=500) |
 | ------------- | ------------- |
  
