@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a></h1> 
 
-
-<img align="center" src="[https://media.giphy.com/media/tsSpBdwJWsgvruT4Ha/giphy.gif](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/stats?cursusId=21&coalitionId=364)"  width ="25px">  Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> 
-
-[![seryilma's 42 stats](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/stats?cursusId=21&coalitionId=364)](https://github.com/JaeSeoKim/badge42)
-
 <h2><img align="center" src="https://media.giphy.com/media/jDuRXO04tzpRKz9c2w/giphy.gif" width ="40"> About me</h2>
 
  <img align="center" src="https://media.giphy.com/media/l4AFk2T11lpflZFGkX/giphy.gif"  width ="25px">  My resume is <a href="https://greencodia.com/resumes/Serkan-YILMAZ.pdf" target="_blank">here</a>
