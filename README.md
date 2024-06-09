@@ -1,3 +1,8 @@
+
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/serkanyilmaz-ce/serkanyilmaz-ce/assets/74135344/d90ee11f-4951-4114-892d-7a2a4716255c)
+
+
+
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a></h1> 
 
 <h2><img align="center" src="https://media.giphy.com/media/jDuRXO04tzpRKz9c2w/giphy.gif" width ="40"> About me</h2>
