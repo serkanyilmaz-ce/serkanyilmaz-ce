@@ -65,23 +65,6 @@
 </p>
 
 <div align="center" style="width:auto;height:50px">
-
 https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-af2b-bee0fb2be586.mov
-
- </div>
- 
-  <h2><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhYTE3NDU5OWVhOGEzMjE2ZjM4NTNmYTI1NjlhN2UwZmRjZjNjNCZjdD10cw/UUBYepX4WSiNFf8GOT/giphy.gif" width="45"> Ecole 42 Projects Progress:</h2>
-
-| No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
-| :---:  | :---:   | :---:  | :---:  | :---:  | :---:    | :---:    | :---:  | :---:  | :---:  | :---:   |
-| 1  | libft   | [![seryilma's 42 Libft Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2449733)](https://github.com/JaeSeoKim/badge42) | | 11 | CPP Module 00   | [![seryilma's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3083891)](https://github.com/JaeSeoKim/badge42) |  | 21 | NetPractice | [![seryilma's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3083890)](https://github.com/JaeSeoKim/badge42) |
-| 2  | born2beroot   | [![seryilma's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2513967)](https://github.com/JaeSeoKim/badge42) |  | 12 | CPP Module 01   | [![seryilma's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3123853)](https://github.com/JaeSeoKim/badge42) |  | 22 | ft_irc? webserv? | 🔒   |
-| 3  | ft_printf   | [![seryilma's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2513966)](https://github.com/JaeSeoKim/badge42) |  | 13 | CPP Module 02   | [![seryilma's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3169881)](https://github.com/JaeSeoKim/badge42) |  | 23 | inception | 🔒   |
-| 4  | get_next_line   | [![seryilma's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2513965)](https://github.com/JaeSeoKim/badge42) |  | 14 | CPP Module 03   | [![seryilma's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3171311)](https://github.com/JaeSeoKim/badge42) |  | 24 | ft_transcendence | 🔒   |
-| 5 | fract_ol   | [![seryilma's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2935245)](https://github.com/JaeSeoKim/badge42) |  | 15 | CPP Module 04   | [![seryilma's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3172182)](https://github.com/JaeSeoKim/badge42) |  | A | Exam Rank 02 | [![seryilma's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2915434)](https://github.com/JaeSeoKim/badge42)   |
-| 6  | minitalk   | [![seryilma's 42 minitalk Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2915698)](https://github.com/JaeSeoKim/badge42) |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | [![seryilma's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3039992)](https://github.com/JaeSeoKim/badge42)   |
-| 7  | push_swap   | [![seryilma's 42 push_swap Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/2917302)](https://github.com/JaeSeoKim/badge42) |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 | 🔒 |
-| 8  | minishell   | [![seryilma's 42 minishell Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3038178)](https://github.com/JaeSeoKim/badge42) |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 | 🔒  |
-| 9  | philosophers   | [![seryilma's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3015425)](https://github.com/JaeSeoKim/badge42) |  | 19 | CPP Module 08   | 🔒   |  | C | Exam Rank 06 |  🔒  |
-| 10  | cub3d | [![seryilma's 42 cub3d Score](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/project/3168740)](https://github.com/JaeSeoKim/badge42) |  | 20 | CPP Module 09   | 🔒 |  |  |  |    |
+</div>
 
