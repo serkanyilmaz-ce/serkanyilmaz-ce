@@ -4,29 +4,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a></h1> 
-
-<h2><img align="center" src="https://media.giphy.com/media/jDuRXO04tzpRKz9c2w/giphy.gif" width ="40"> About me</h2>
-
- <img align="center" src="https://media.giphy.com/media/l4AFk2T11lpflZFGkX/giphy.gif"  width ="25px">  My resume is <a href="https://greencodia.com/resumes/Serkan-YILMAZ.pdf" target="_blank">here</a>
- <!-- <img align="top" style="width:400px; height:auto" src="Images/geek.gif"/> -->
- </br>
- 
-  <img align="center" src="https://media.giphy.com/media/TLPTbOAwRD9zoi1QOI/giphy.gif"  width ="25px">  Game Developer and Co-founder at <a href = "https://greencodia.com/">Greencodia</a>
- 
-  </br>
-
- <img align="center" src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif"  width ="25px">  Senior at <a href = "https://www.itu.edu.tr/en">Istanbul Technical University</a>
-
- </br>
-
-<img align="center" src="https://media.giphy.com/media/tsSpBdwJWsgvruT4Ha/giphy.gif"  width ="25px">  Cadet at <a href= "https://42istanbul.com.tr/">42 Istanbul</a> 
-
- </br>
- 
- <img align="center" src="https://media.giphy.com/media/QuVplMko9NmomDV2uH/giphy.gif"  width ="25px">  Hobbies: Music (Player of Guitar, <a href = "https://www.youtube.com/watch?v=fzAiskv_2Us">Trumpet</a>, <a href = "https://music.youtube.com/watch?v=wD_OR97BrEE&feature=share">Oud)</a>, <a href= "https://lichess.org/@/pawnofspades">Chess</a>,  <a href="https://1000kitap.com/srknylmz">Books</a>, <a href="https://m.imdb.com/list/ls096280328/?ref_=m_urls_ls">Movies</a>
-
- </br>
- </br>
  
 <h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> Languages & Tools</h2>
 
@@ -61,16 +38,6 @@
 </p>
 </br>
 </br>
- 
- <h2><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVhYTE3NDU5OWVhOGEzMjE2ZjM4NTNmYTI1NjlhN2UwZmRjZjNjNCZjdD10cw/UUBYepX4WSiNFf8GOT/giphy.gif" width="45"> 42 Stats:</h2>
- 
-<div>
- 
-[![seryilma's 42 stats](https://badge42.vercel.app/api/v2/cla3u9rlq00060gmmorpyv61w/stats?cursusId=21&coalitionId=364)](https://github.com/JaeSeoKim/badge42)
-
-</div>
- </br>
- </br>
 
 <h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/74135344/222338799-da4c126b-6125-44e2-ad42-3d81f09b21e0.png" width ="40"> Contact with Me</h2>
 
