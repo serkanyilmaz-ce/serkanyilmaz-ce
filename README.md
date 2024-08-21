@@ -1,9 +1,7 @@
 
 ![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/serkanyilmaz-ce/serkanyilmaz-ce/assets/74135344/d90ee11f-4951-4114-892d-7a2a4716255c)
 
-
-
-<h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a></h1> 
+Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a>
 <!--
 <h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> Languages & Tools</h2>
 <p> 
