@@ -52,9 +52,7 @@
 </div>
 </p>
 
-<div align="center" style="width:auto;height:50px">
- 
+<!--<div align="center" style="width:auto;height:50px">
 https://user-images.githubusercontent.com/74135344/222324263-65dccf8c-f983-4bbe-af2b-bee0fb2be586.mov
-
-</div>
+</div>-->
 
