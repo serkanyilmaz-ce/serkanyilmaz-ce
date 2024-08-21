@@ -24,28 +24,27 @@ Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.co
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://img.icons8.com/dusk/64/unity.png" alt="unity" width="40" height="40"/> </a> </p>
 </br>
 </br>
--->
-<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/74135344/222338799-da4c126b-6125-44e2-ad42-3d81f09b21e0.png" width ="40"> Contact with Me</h2>
+<h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/74135344/222338799-da4c126b-6125-44e2-ad42-3d81f09b21e0.png" width ="40"> Contact with Me</h2>-->
 
 <p>
 <!--<h3 align="center" > <img src="Images/icons8-customer-support.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>-->
 <!--<a style="margin-left: 5px;" target="_blank" href="https://github.com/serkanyilmaz-ce">
   <img align="center" src="https://img.icons8.com/doodle/40/000000/github--v1.png">
 </a>-->
-<a style="margin-left: 5px;" href="https://twitter.com/pawn_of_spades" target="blank">
+<a style="margin-left: 3px;" href="https://twitter.com/pawn_of_spades" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="pawn_of_spades">
 </a>
-<a style="margin-left: 5px;" href="https://linkedin.com/in/serkan-yilmazz/" target="blank">
+<a style="margin-left: 3px;" href="https://linkedin.com/in/serkan-yilmazz/" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="Serkan Yılmaz">
 </a>
 <!--<a style="margin-left: 10px;" href="https://www.instagram.com/serkanyilmaz.gc/" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/48/instagram-new.png" alt="srknylmz.gc">
 </a>-->
-<a style="margin-left: 5px;" href="https://discordapp.com/users/773562948802576404" target="blank">
+<a style="margin-left: 3px;" href="https://discordapp.com/users/773562948802576404" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/48/discord-new-logo.png" alt="Serkan#4461" height="40" width="40">
 </a>
-<a style="margin-left: 5px;" target="_blank" href="https://stackoverflow.com/users/16186805/cmpesy"><img align="center" src="https://img.icons8.com/color/48/stackoverflow.png"></a>
-<a style="margin-left: 5px;" target="_blank" href="mailto:serkanyilmaz@greencodia.com"><img align="center" src="https://img.icons8.com/doodle/48/new-post.png"></a>
+<a style="margin-left: 3px;" target="_blank" href="https://stackoverflow.com/users/16186805/cmpesy"><img align="center" src="https://img.icons8.com/color/48/stackoverflow.png"></a>
+<a style="margin-left: 3px;" target="_blank" href="mailto:serkanyilmaz@greencodia.com"><img align="center" src="https://img.icons8.com/doodle/48/new-post.png"></a>
 </p>
 
 <!--<div align="center" style="width:auto;height:50px">
