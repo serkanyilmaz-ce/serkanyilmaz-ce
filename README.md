@@ -30,7 +30,7 @@ Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.co
 <!--<h3 align="center" > <img src="Images/icons8-customer-support.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>-->
 <!--<a style="margin-left: 5px;" target="_blank" href="https://github.com/serkanyilmaz-ce"><img align="center" src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 <a style="margin-left: 10px;" href="https://www.instagram.com/serkanyilmaz.gc/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/instagram-new.png" alt="srknylmz.gc"></a>-->
-<a style="margin-left: 10px;width = 5px;" href="https://twitter.com/pawn_of_spades" target="blank"><img align="center" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="pawn_of_spades"></a>
+<a style="width = 5px;" href="https://twitter.com/pawn_of_spades" target="blank"><img align="center" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="pawn_of_spades"></a>
 <a style="margin-left: 10px;" href="https://linkedin.com/in/serkan-yilmazz/" target="blank"><img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="Serkan Yılmaz"></a>
 <a style="margin-left: 10px;" href="https://discordapp.com/users/773562948802576404" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/discord-new-logo.png" alt="Serkan#4461" height="40" width="40"></a>
 <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/16186805/cmpesy"><img align="center" src="https://img.icons8.com/color/48/stackoverflow.png"></a>
