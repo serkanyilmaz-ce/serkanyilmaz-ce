@@ -4,9 +4,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Serkan from 🇹🇷 <a> <img align="right" src="https://komarev.com/ghpvc/?username=serkanyilmaz-ce&label=Profile%20views&color=orange&style=flat" alt="serkanyilmaz-ce"/><a></h1> 
- 
+<!--
 <h2><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> Languages & Tools</h2>
-
 <p> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -25,20 +24,9 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img style="margin-left: 10px;" src="https://img.icons8.com/dusk/64/unity.png" alt="unity" width="40" height="40"/> </a> </p>
-
- </br>
- </br>
- 
-<h2><img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45"> Github Stats:</h2>
-<p>
- 
-| ![serkanyilmaz-ce's Github stats](https://github-readme-stats.vercel.app/api?username=serkanyilmaz-ce&show_icons=true&hide_border=true&theme=darcula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanyilmaz-ce&theme=darcula&card_width=500) |
-| ------------- | ------------- |
- 
-</p>
 </br>
 </br>
-
+-->
 <h2 align="center"><img align="center" src="https://user-images.githubusercontent.com/74135344/222338799-da4c126b-6125-44e2-ad42-3d81f09b21e0.png" width ="40"> Contact with Me</h2>
 
 <p>
@@ -53,9 +41,9 @@
 <a style="margin-left: 10px;" href="https://linkedin.com/in/serkan-yilmazz/" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="Serkan Yılmaz">
 </a>
-<a style="margin-left: 10px;" href="https://www.instagram.com/serkanyilmaz.gc/" target="blank">
+<!--<a style="margin-left: 10px;" href="https://www.instagram.com/serkanyilmaz.gc/" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/48/instagram-new.png" alt="srknylmz.gc">
-</a>
+</a>-->
 <a style="margin-left: 10px;" href="https://discordapp.com/users/773562948802576404" target="blank">
   <img align="center" src="https://img.icons8.com/doodle/48/discord-new-logo.png" alt="Serkan#4461" height="40" width="40">
 </a>
